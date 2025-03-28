@@ -20,23 +20,40 @@ The key challenges addressed in this project:
 
 
 
-Column Name	Description
+Column Name	   Description
+
 GENDER: The gender of the individual (Male or Female).
+
 AGE: The age of the individual in years.
+
 SMOKING: Indicates if the individual smokes ('1' for yes, '0' for no).
+
 YELLOW_FINGERS: Denotes the presence of yellow fingers ('1' for yes, '0' for no), a potential sign associated with smoking.
+
 ANXIETY: Indicates if the individual experiences anxiety ('1' for yes, '0' for no).
+
 PEER_PRESSURE: Suggests if peer pressure influences the individual's habits ('1' for yes, '0' for no).
+
 CHRONIC DISEASE: Indicates the presence of any chronic diseases ('1' for yes, '0' for no).
+
 FATIGUE: Denotes if the individual frequently feels fatigued ('1' for yes, '0' for no).
+
 ALLERGY: Indicates if the individual has allergies ('1' for yes, '0' for no).
+
 WHEEZING: Represents whether the individual experiences wheezing (('1' for yes, '0' for no).
+
 ALCOHOL CONSUMING: Indicates alcohol consumption habits ('1' for yes, '0' for no).
+
 COUGHING: Represents whether the individual has a cough (('1' for yes, '0' for no).
+
 SHORTNESS OF BREATH: Indicates if the individual experiences shortness of breath ('1' for yes, '0' for no).
+
 SWALLOWING DIFFICULTY: Denotes difficulty in swallowing ('1' for yes, '0' for no).
+
 CHEST PAIN: Indicates the presence of chest pain ('1' for yes, '0' for no).
+
 LUNG_CANCER: The target variable, indicating whether the individual has lung cancer ('1' for yes, '0' for no).
+
 
 
 🛠️ Tools & Technologies Used
